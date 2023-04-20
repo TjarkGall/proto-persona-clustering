@@ -1,2 +1,6 @@
+/data/raw/*
+/data/interim/*
+data/*
+data/interim/*
+data/interim/census4cluster_scaled.csv
 .DS_Store
-data/raw/*
