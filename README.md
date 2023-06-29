@@ -26,7 +26,55 @@ pip install -r requirements.txt
 ```
 ```shell
 streamlit run app.py
+
+## Overview
+
+The presented clustering approach creates proto-personas based on census and mobility survey data for the Île-de-France region. This method aims to facilitate the combined work of designers and simulation experts, considering future uncertainties of urban mobility systems. A scientific article with a detailed method description is currently being published.
+
+## Features
+
+- Cluster proto-personas based on census and mobility survey data
+- Integrate trends and uncertainties for different future scenarios
+- Scale up populations to match set target values via Iterative Proportional Updating
+
+
+1. Clone the repository:
+
+```shell
+git clone https://github.com/your-username/urban-mobility-decision-support-tool.git
 ```
+
+## 2. Install the required dependencies:
+
+```shell
+pip install -r requirements.txt
+```
+```shell
+streamlit run app.py
+
+## Overview
+
+The presented clustering approach creates proto-personas based on census and mobility survey data for the Île-de-France region. This method aims to facilitate the combined work of designers and simulation experts, considering future uncertainties of urban mobility systems. A scientific article with a detailed method description is currently being published.
+
+## Features
+
+- Cluster proto-personas based on census and mobility survey data
+- Integrate trends and uncertainties for different future scenarios
+- Scale up populations to match set target values via Iterative Proportional Updating
+
+
+1. Clone the repository:
+
+```shell
+git clone https://github.com/your-username/urban-mobility-decision-support-tool.git
+```
+
+## 2. Install the required dependencies:
+
+```shell
+pip install -r requirements.txt
+```
+
 Open the application in your browser at http://localhost:8501.
 
 ## Data and Scenarios
