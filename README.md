@@ -13,7 +13,7 @@ The presented clustering approach creates proto-personas based on census and mob
 - Scale up populations to match set target values via Iterative Proportional Updating
 
 
-1. Clone the repository:
+## 1. Clone the repository:
 
 ```shell
 git clone https://github.com/your-username/urban-mobility-decision-support-tool.git
