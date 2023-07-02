@@ -1,4 +1,6 @@
-/data/raw/*
+/data/raw/FD_INDCVIZA_2019.csv
+/data/raw/FD_INDCVIZA_2015.dbf
 /data/interim/*
+/data/output/*
 /data/*
 .DS_Store
